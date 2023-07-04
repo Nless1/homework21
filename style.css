@@ -3,9 +3,9 @@
   font-weight: 700;
   font-style: normal;
   src: local("YsabeauOffice-Bold"),
-  url("/fonts/YsabeauOffice-Bold.woff2") format("woff2"),
-  url("/fonts/YsabeauOffice-Bold.woff") format("woff"),
-  url("/fonts/YsabeauOffice-Bold.eot") format("eot");
+  url("../fonts/YsabeauOffice-Bold.woff2") format("woff2"),
+  url("../fonts/YsabeauOffice-Bold.woff") format("woff"),
+  url("../fonts/YsabeauOffice-Bold.eot") format("eot");
   font-display: swap;
 }
 @font-face {
