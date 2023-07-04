@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "Ysabeau Office";
+  font-weight: 700;
+  font-style: normal;
+  src: local("YsabeauOffice-Bold"),
+  url("/fonts/YsabeauOffice-Bold.woff2") format("woff2"),
+  url("/fonts/YsabeauOffice-Bold.woff") format("woff"),
+  url("/fonts/YsabeauOffice-Bold.eot") format("eot");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Ysabeau Office";
+  font-weight: 600;
+  font-style: italic;
+  src: local("YsabeauOffice-SemiBoldItalic"),
+  url("/fonts/YsabeauOffice-SemiBoldItalic.woff2") format("woff2"),
+  url("/fonts/YsabeauOffice-SemiBoldItalic.woff") format("woff"),
+  url("/fonts/YsabeauOffice-SemiBoldItalic.woff2") format("eot");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Plexifont";
+  font-weight: 400;
+  font-style: normal;
+  src: local("PlexifontBV"),
+  url("/fonts/PlexifontBV.woff2") format("woff2"),
+  url("/fonts/PlexifontBV.woff") format("woff"),
+  url("/fonts/PlexifontBV.woff2") format("eot");
+  font-display: swap;
+}
+.text1 {
+  font-family: "Ysabeau Office", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  margin-bottom: 25px;
+}
+.text2 {
+  font-family: "Ysabeau Office", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 25px;
+  margin-bottom: 25px;
+}
+.text3 {
+  font-family: "Ysabeau Infant", sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+  margin-bottom: 25px;
+}
+.text4 {
+  font-family: "Ysabeau Infant", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 25px;
+  margin-bottom: 25px;
+}
+.text5{
+  font-family: "Plexifont";
+  font-weight: 400;
+  font-size: 45px;
+  margin-bottom: 25px;
+  text-shadow: 3px 3px 3px black;
+}
